@@ -11,7 +11,7 @@ submitButton.onclick = validate;
 
 // User Validation
 function validate() {
-    var usernames = ["Shaniya Griffin", "Jill Haddington"];
+    var usernames = ["Shaniya Griffin", "Jill Coddington"];
     var passwords = ["student1221", "uat2024"];
     var username = usernameInput.value;
     var password = passwordInput.value;
